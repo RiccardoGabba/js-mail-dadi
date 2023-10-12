@@ -8,9 +8,9 @@ button.addEventListener('click', function () {
 
 
 
-    if(validEmail.includes(emailCheck)){
-        
-    }
+   if( i === emailList){
+    console.log()
+   }
 
 
 })
